@@ -1,12 +1,9 @@
-Deploy Static Website on AWS
+Deploying Static Website on AWS
 
-In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
+This project involves taking a static website and uploading it to AWS. Steps include:
 
-The files included are: 
-
-index.html - The Index document for the website.
-/img - The background image file for the website.
-/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
-/css - CSS files for the website.
-
+Modifying the content of the website
+Creating a publically accesible S3 bucket
+Uploading the static web site to the new S3 bucket
+Creating a CloudFront instance with the static web files.
 
