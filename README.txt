@@ -1,4 +1,4 @@
-<h4>Deploying Static Website on AWS</h4>
+#Deploying Static Website on AWS
 
 This project involves taking a static website and uploading it to AWS. Steps include:
 
